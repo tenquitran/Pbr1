@@ -1,0 +1,25 @@
+# Visual Studio
+*.opensdf
+*.sdf
+*.v12.suo
+*.vcxproj.user
+*.dll
+*.lib
+*.exe
+ipch/
+Debug/
+Release/
+data/
+*.tlog
+*.lastbuildstate
+*.obj
+*.log
+*.pch
+*.res
+*.idb
+*.pdb
+*.aps
+
+# Projects-specific
+log.txt
+assimpLog.txt
